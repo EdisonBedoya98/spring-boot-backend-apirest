@@ -1,0 +1,11 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Andres', 'Guzmán', 'profesor@bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Edison', 'Guzmán', 'profesor1@bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Carlos', 'Guzmán', 'profesor12@bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Yuly', 'Guzmán', 'profesor122@bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Aleja', 'Guzmán', 'profesor23@bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Nelly', 'Guzmán', 'profesor34@bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Santiago', 'Guzmán', 'profeso34r@bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Carlos', 'Guzmán', 'profesor45@bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Angel', 'Guzmán', 'profesor@4bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Yei', 'Guzmán', 'profeso4r@bolsa.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Alfredo', 'Guzmán', 'profes45or@bolsa.com', '2018-01-01');
